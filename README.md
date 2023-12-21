@@ -1,7 +1,6 @@
 # Google-Meet-Bot
 
 <div style="width:fit-content;height: fit-content;margin: 5%;">
-    <h1>Google Meet Attendance Bot 🤖</h1><br>
     <h4>⭐ Works with latest version of Google Meets ⭐</h4>
     <h3>Steps for use: </h3>
     <ol style="margin-bottom:10px;">
